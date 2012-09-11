@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Useful Resources Links feature.
+ */
+
+include_once 'useful_resources_links.features.inc';
